@@ -12,9 +12,9 @@
 	<artifactId>propertyFinder</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>propertyFinder</name>
-	<description>propertyFinder</description>
+	<description>OnlineEbookMaker</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
 	
